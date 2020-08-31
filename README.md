@@ -53,4 +53,4 @@ For this task, i decided to use:
 Detailes about the network can be found in *Face_Recognition.ipynb*
 
 ## Results
-![titanic_image](https://postimg.cc/7CdsTZJd)
+![titanic_image](https://i.postimg.cc/xCTWhkff/test-image.png)
